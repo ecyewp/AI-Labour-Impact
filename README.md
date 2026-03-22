@@ -8,6 +8,8 @@ Key findings
 *   Workers in the most exposed professions are more likely to be older, female, more educated, and higher-paid
 *   We find no systematic increase in unemployment for highly exposed workers since late 2022, though we find suggestive evidence that hiring of younger workers has slowed in exposed occupations
 
+[Link Text](https://www.anthropic.com/research/labor-market-impacts)
+
 Introduction
 ------------
 
