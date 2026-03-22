@@ -2,7 +2,7 @@
 Mar 5, 2026 Key findings
 
 #### Key findings
-- We introduce a new measure of AI displacement risk, observed exposure, that combines theoretical LLM capability and real-world usage data, weighting automated (rather than augmentative) and work-related uses more heavily
+- Anthropic introduce a new measure of AI displacement risk, observed exposure, that combines theoretical LLM capability and real-world usage data, weighting automated (rather than augmentative) and work-related uses more heavily
 - AI is far from reaching its theoretical capability: actual coverage remains a fraction of what's feasible
 - Occupations with higher observed exposure are projected by the BLS to grow less through 2034
 - Workers in the most exposed professions are more likely to be older, female, more educated, and higher-paid
