@@ -1,4 +1,4 @@
-# Labor market impacts of AI: A new measure and early evidence \ Anthropic
+# Labor market impacts of AI: A new measure and early evidence by Anthropic
 Key findings
 ------------
 
